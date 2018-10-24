@@ -16,3 +16,18 @@
 | ui                                | wee as in week      | lui                    |
 | euille                            | uh, follow with y   | feuille                |
 | eille                             | as in in hay        | merveilleux            |
+
+## Nasal Vowels
+
+| French Letter | Approximate Sound | Example  |
+| ------------- | ----------------- | -------- |
+| an, en        | vowel in balm     | France   |
+| em            | vowel in balm     | emmencer |
+| in, ain, ein  | vowel in man      | fin      |
+| in, aim       | vowel in man      | faim     |
+| ien           | y + vowel in men  | bien     |
+| ion           | y + vowel in song | station  |
+| oin           | w + vowel in man  | loin     |
+| on            | vowel in song     | bon      |
+| om            | vowel in song     | tomber   |
+| un            | vowel in lung     | un       |

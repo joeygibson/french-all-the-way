@@ -9,3 +9,13 @@ charts in an easily accessible format for myself.
 
 * [Consonants](./consonants.md)
 * [Vowels](./vowels.md)
+* [Pronouns](./pronouns.md)
+* [Auxillary Verbs](./auxillary_verbs.md)
+* [Regular -er Verbs](./regular_er_verbs.md)
+* [Numbers](./numbers.md)
+
+## VOcabulaire
+
+* [Leçon 1](./lecon_1_vocabulaire.md)
+* [Leçon 2](./lecon_2_vocabulaire.md)
+* 

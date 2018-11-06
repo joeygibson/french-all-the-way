@@ -13,8 +13,9 @@ charts in an easily accessible format for myself.
 * [Auxillary Verbs](./auxillary_verbs.md)
 * [Regular -er Verbs](./regular_er_verbs.md)
 * [Numbers](./numbers.md)
+* [Articles](./articles.md)
 
-## VOcabulaire
+## Vocabulaire
 
 * [Leçon 1](./lecon_1_vocabulaire.md)
 * [Leçon 2](./lecon_2_vocabulaire.md)

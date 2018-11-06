@@ -31,3 +31,14 @@
 | on            | vowel in song     | bon     |
 | om            | vowel in song     | tomber  |
 | un            | vowel in lung     | un      |
+
+## Diphthongs
+
+| French Letters       | Approximate Sound | Example                | Meaning                |
+| -------------------- | ----------------- | ---------------------- | ---------------------- |
+| an, ahm, en, em      | ah(n)             | en France              | in France              |
+| ain, aim, in, im, ym | a(n)              | américain, inscription | American, registration |
+| ien                  | ya(n)             | chien                  | dog                    |
+| on, om               | oh(n)             | bon                    | good                   |
+| un, um               | uh(n)             | un                     | one                    |
+

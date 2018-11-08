@@ -1,6 +1,8 @@
 # Regular -er Verbs
 
-# parler - to speak
+## Present tense
+
+### parler - to speak
 
 | Singular         |                  | Plural     |                   |
 | ---------------- | ---------------- | ---------- | ----------------- |
@@ -8,7 +10,7 @@
 | you speak        | tu parles        | you speak  | vous parlez       |
 | he/she/it speaks | il/elle/on parle | they speak | ils/elles parlent |
 
-# visiter - to speak
+### visiter - to speak
 
 | Singular         |                   | Plural     |                    |
 | ---------------- | ----------------- | ---------- | ------------------ |
@@ -16,7 +18,7 @@
 | you visit        | tu visites        | you visit  | vous visitez       |
 | he/she/it visits | il/elle/on visite | they visit | ils/elles visitent |
 
-# étudier - to study
+### étudier - to study
 
 | Singular          |                   | Plural     |                    |
 | ----------------- | ----------------- | ---------- | ------------------ |

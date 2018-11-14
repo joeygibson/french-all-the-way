@@ -118,3 +118,31 @@ or mute 'h'.
 | un voyageur heureux  | a happy traveller |
 | des voyagers heureux | happy travellers  |
 
+## The Interogative Adjective "Quel"
+
+| -         | singular | plural  |
+| --------- | -------- | ------- |
+| masculine | quel     | quels   |
+| feminine  | quelle   | quelles |
+
+|                                |                                |
+| ------------------------------ | ------------------------------ |
+| Quel jour sommes-nous?         | What day is it? What's today?  |
+| À quelle heure partez-vous?    | At what time are you leaving?  |
+| Quels sont vos sports favoris? | What are your favorite sports. |
+
+### Exclamations
+
+|                          |                           |
+| ------------------------ | ------------------------- |
+| Quelle soirée mgnifique! | What a wonderful evening! |
+| Quelle chaleur!          | How hot is it!            |
+
+## Qu'est-ce Que C'est
+
+When you need the definition of a word, you ask:
+
+|                                 |                  |
+| ------------------------------- | ---------------- |
+| Qu'est-ce que c'est?            | What is it?      |
+| Qu'est-ce que c'est que le TGV? | What is the TGV? |

@@ -1,7 +1,7 @@
 # Consonants
 
 | French Letter                             | Approximate Sound                                                 | Example       |
-|-------------------------------------------|-------------------------------------------------------------------|---------------|
+| ----------------------------------------- | ----------------------------------------------------------------- | ------------- |
 | b, d, k, l, m, n, p, s, t, v, z           | same as in English                                                |               |
 | c (before e, i, y)                        | s                                                                 | cinéma        |
 | c (before a, o, u)                        | k                                                                 | cave          |
@@ -30,18 +30,21 @@ In verb form, final `ent` in 3rd-person plural is usually not pronounced.
 In verb form, `est` is pronounced as `é`
 
 | French Letter | Approximate Sound | Example                     |
-|---------------|-------------------|-----------------------------|
+| ------------- | ----------------- | --------------------------- |
 | c + e or i    | s in sing         | ce, place, merci            |
 | c + a, o, u   | like English k    | café, comment, cours        |
 | ç (c cedilla) | s in sing         | ça, français, François      |
 | c + consonant | English k         | Christophe, classe, article |
+| g + a, o, u   | g in go           | gare, golf                  |
+| g + consonant | g in go           | grand, agréable             |
+| g + e, i      | s in pleasure     | manger, concierge           |
 
 ## 'l'
 
 `ill` and final `il` are normally pronounced like 'y'
 
 |                  |                   |
-|------------------|-------------------|
+| ---------------- | ----------------- |
 | travail          | 'a' in father + y |
 | soleil, fauteuil | è + y             |
 | vieil            | y + è + y         |

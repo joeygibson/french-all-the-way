@@ -47,3 +47,15 @@ In verb form, `est` is pronounced as `é`
 | vieil            | y + è + y         |
 | bouteille        | ee + y            |
 
+## 't'
+
+'t' + "ion" sounds like "ss"
+
+* nation, nationalité, sensationnel
+
+## "gn"
+
+"gn" is pronounced like the 'n' in "onion"
+
+* campagne, dignité, signal, cognac
+

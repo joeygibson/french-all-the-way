@@ -7,21 +7,26 @@ charts in an easily accessible format for myself.
 
 ## Sections
 
-* [Consonants](./consonants.md)
-* [Vowels](./vowels.md)
-* [Pronouns](./pronouns.md)
+* [Verbs with changes in accent](./accent_changing_verbs.md)
+* [Adjectives](./adjectives.md)
+* [Articles](./articles.md)
 * [Auxillary Verbs](./auxillary_verbs.md)
+* [Consonants](./consonants.md)
+* [Countries](./countries.md)
+* [Days, Months, Seasons](./days_months_seasons.md)
+* [Idiomatic Verbs](./idiomatic_verbs.md)
+* [Interrogative Form](./interrogative_form.md)
+* [Numbers](./numbers.md)
+* [Pronouns](./pronouns.md)
 * [Regular -er Verbs](./regular_er_verbs.md)
 * [Regular -ir Verbs](./regular_ir_verbs.md)
-* [Numbers](./numbers.md)
-* [Articles](./articles.md)
-* [Interrogative Form](./interrogative_form.md)
-* [Negation](./negation.md)
+* [Vowels](./vowels.md)
 
 ## Vocabulaire
 
-* [Leçon 1](./lecon_1_vocabulaire.md)
-* [Leçon 2](./lecon_2_vocabulaire.md)
-* [Leçon 3](./lecon_3_vocabulaire.md)
-* [Leçon 4](./lecon_4_vocabulaire.md)
-* 
+* [Leçon 1 Vocabulaire](./lecon_1_vocabulaire.md)
+* [Leçon 2 Vocabulaire](./lecon_2_vocabulaire.md)
+* [Leçon 3 Vocabulaire](./lecon_3_vocabulaire.md)
+* [Leçon 4 Vocabulaire](./lecon_4_vocabulaire.md)
+* [Leçon 5 Vocabulaire](./lecon_5_vocabulaire.md)
+* [Leçon 6 Vocabulaire](./lecon_6_vocabulaire.md)

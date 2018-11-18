@@ -42,3 +42,49 @@
 | on, om               | oh(n)             | bon                    | good                   |
 | un, um               | uh(n)             | un                     | one                    |
 
+## Pronunciation Notes
+
+### e/é/è
+
+| e   | é          | è    |
+| --- | ---------- | ---- |
+| je  | régime     | très |
+| ce  | spécialité | ces  |
+| le  | appétit    | près |
+
+### open and closed 'o'
+
+| open    | closed    |
+| ------- | --------- |
+| chapeau | escargot  |
+| soleil  | artichaut |
+| adore   | bonne     |
+| joli    | bientôt   |
+
+### closed and open "eu"
+
+| open    | closed  |
+| ------- | ------- |
+| veux    | veulent |
+| ceux    | heure   |
+| deux    | peur    |
+| meubles | beurre  |
+
+### "ou" and "u"
+
+| ou        | u        |
+| --------- | -------- |
+| douzaine  | du       |
+| bouteille | juste    |
+| jour      | tu       |
+| vous      | rustique |
+
+### nanasl vowels
+
+* a
+* an
+* moi
+* moins
+* année, an
+* en, train, on, un
+

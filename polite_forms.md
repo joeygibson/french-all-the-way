@@ -6,7 +6,7 @@
 to "I would like".
 
 |                           |                               |
-| ------------------------- | ----------------------------- |
+|---------------------------|-------------------------------|
 | Je voudrais un billet.    | I would like a ticket.        |
 | Je voudrais un café.      | I would lik some coffee.      |
 | Je voudrais aller à Lyon. | I would like to go to Lyon.   |

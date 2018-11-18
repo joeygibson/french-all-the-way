@@ -18,11 +18,14 @@ charts in an easily accessible format for myself.
 * [Idiomatic Verbs](./idiomatic_verbs.md)
 * [Idioms](./idioms.md)
 * [Interrogative Form](./interrogative_form.md)
+* [Irregular "re" verbs](./irregular_re_verbs.md)
 * [Numbers](./numbers.md)
 * [Polite Forms](./polite_forms.md)
 * [Pronouns](./pronouns.md)
+* ["re" verbs](./re-verbs.md)
 * [Regular -er Verbs](./regular_er_verbs.md)
 * [Regular -ir Verbs](./regular_ir_verbs.md)
+* [Stem-changing "er" verbs](./stem_changing_er_verbs.md)
 * [Vowels](./vowels.md)
 
 ## Vocabulaire
@@ -34,3 +37,5 @@ charts in an easily accessible format for myself.
 * [Leçon 5 Vocabulaire](./lecon_5_vocabulaire.md)
 * [Leçon 6 Vocabulaire](./lecon_6_vocabulaire.md)
 * [Leçon 7 Vocabulaire](./lecon_7_vocabulaire.md)
+* [Leçon 8 Vocabulaire](./lecon_8_vocabulaire.md)
+

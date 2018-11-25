@@ -3,7 +3,7 @@
 ## 1 - 10
 
 |     |        |
-| --- | ------ |
+|-----|--------|
 | 0   | zero   |
 | 1   | un     |
 | 2   | deux   |
@@ -19,7 +19,7 @@
 ## 11 - 19
 
 |     |          |
-| --- | -------- |
+|-----|----------|
 | 11  | onze     |
 | 12  | douze    |
 | 13  | treize   |
@@ -32,33 +32,66 @@
 
 ## 20 - 69
 
-|     |                 |
-| --- | --------------- |
-| 20  | vingt           |
-| 21  | vingt et un     |
-| 22  | vingt-deux      |
-| 23  | vingt-trois     |
-| 24  | vingt-quatre    |
-| 25  | vingt-cinq      |
-| 26  | vingt-six       |
-| 27  | vingt-sept      |
-| 28  | vingt-huit      |
-| 29  | vingt-neuf      |
-| 30  | trente          |
-| 31  | trente et un    |
-| 32  | trente-deux     |
-| 33  | trente-trois    |
-| 34  | trente-quatre   |
-| 40  | quarante        |
-| 41  | quarante et un  |
-| 42  | quarante-deux   |
-| 43  | quarante-trois  |
-| 44  | quarante-quatre |
-| 50  | cinquante       |
-| 51  | cinquante et un |
-| 52  | cinquante-deux  |
-| 53  | cinquante-trois |
-| 57  | cinquante-sept  |
-| 58  | cinquante-huit  |
-| 59  | cinquante-neuf  |
+|     |                       |
+|-----|-----------------------|
+| 20  | vingt                 |
+| 21  | vingt et un           |
+| 22  | vingt-deux            |
+| 23  | vingt-trois           |
+| 24  | vingt-quatre          |
+| 25  | vingt-cinq            |
+| 26  | vingt-six             |
+| 27  | vingt-sept            |
+| 28  | vingt-huit            |
+| 29  | vingt-neuf            |
+| 30  | trente                |
+| 31  | trente et un          |
+| 32  | trente-deux           |
+| 33  | trente-trois          |
+| 34  | trente-quatre         |
+| 40  | quarante              |
+| 41  | quarante et un        |
+| 42  | quarante-deux         |
+| 43  | quarante-trois        |
+| 44  | quarante-quatre       |
+| 50  | cinquante             |
+| 51  | cinquante et un       |
+| 52  | cinquante-deux        |
+| 53  | cinquante-trois       |
+| 57  | cinquante-sept        |
+| 58  | cinquante-huit        |
+| 59  | cinquante-neuf        |
+| 60  | soixante              |
+| 70  | soixante-dix          |
+| 71  | soixante et onze      |
+| 72  | soixante-douze        |
+| 73  | soixante-treize       |
+| 74  | soixante-quatorze     |
+| 75  | soixante-quinze       |
+| 76  | soixante-seize        |
+| 77  | soixante-dix-sept     |
+| 78  | soixante-dix-huit     |
+| 79  | soixante-dix-neuf     |
+| 80  | quatre-vingts         |
+| 81  | quatre-vingt-un       |
+| 82  | quatre-vingt-deux     |
+| 83  | quatre-vingt-trois    |
+| 84  | quatre-vingt-quatre   |
+| 85  | quatre-vingt-cinq     |
+| 86  | quatre-vingt-six      |
+| 87  | quatre-vingt-sept     |
+| 88  | quatre-vingt-huit     |
+| 89  | quatre-vingt-neuf     |
+| 90  | quatre-vingt-dix      |
+| 91  | quatre-vingt-onze     |
+| 92  | quatre-vingt-douze    |
+| 93  | quatre-vingt-trois    |
+| 94  | quatre-vingt-quatorze |
+| 95  | quatre-vingt-quinze   |
+| 96  | quatre-vingt-seize    |
+| 97  | quatre-vingt-sept     |
+| 98  | quatre-vingt-huit     |
+| 99  | quatre-vingt-neuf     |
+| 100 | cent                  |
+
 

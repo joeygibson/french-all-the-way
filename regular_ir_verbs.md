@@ -68,4 +68,4 @@ Pattern 2 drops the `-ir`, _and_ the final letter of the root _in the singular_,
 * Savez-vous la réponse?
 * Il sait danser.
 * Sais-tu comment elle s'appele?
-* 
+

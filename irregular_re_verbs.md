@@ -12,3 +12,11 @@
 |---------------------------|------------------------|
 | Vous bouvez du vin rouge? | Do you drink red wine? |
 | Ils boivent du café.      | They drink coffee.     |
+
+## faire (to do)
+
+| Singular       |                 | Plural  |                |
+|----------------|-----------------|---------|----------------|
+| I do           | je fais         | we do   | nous faisons   |
+| you do         | tu fais         | your do | voud faites    |
+| he/she/it does | il/elle/on fait | they do | ils/elles font |

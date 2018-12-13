@@ -45,5 +45,3 @@
 | répondre               | to answer             |
 | perdre                 | to lose               |
 | rendre                 | to return something   |
-
-

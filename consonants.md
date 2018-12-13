@@ -1,7 +1,7 @@
 # Consonants
 
 | French Letter                             | Approximate Sound                                                 | Example       |
-| ----------------------------------------- | ----------------------------------------------------------------- | ------------- |
+|-------------------------------------------|-------------------------------------------------------------------|---------------|
 | b, d, k, l, m, n, p, s, t, v, z           | same as in English                                                |               |
 | c (before e, i, y)                        | s                                                                 | cinéma        |
 | c (before a, o, u)                        | k                                                                 | cave          |
@@ -30,7 +30,7 @@ In verb form, final `ent` in 3rd-person plural is usually not pronounced.
 In verb form, `est` is pronounced as `é`
 
 | French Letter | Approximate Sound | Example                     |
-| ------------- | ----------------- | --------------------------- |
+|---------------|-------------------|-----------------------------|
 | c + e or i    | s in sing         | ce, place, merci            |
 | c + a, o, u   | like English k    | café, comment, cours        |
 | ç (c cedilla) | s in sing         | ça, français, François      |
@@ -44,7 +44,7 @@ In verb form, `est` is pronounced as `é`
 `ill` and final `il` are normally pronounced like 'y'
 
 |                  |                   |
-| ---------------- | ----------------- |
+|------------------|-------------------|
 | travail          | 'a' in father + y |
 | soleil, fauteuil | è + y             |
 | vieil            | y + è + y         |
@@ -61,4 +61,28 @@ In verb form, `est` is pronounced as `é`
 "gn" is pronounced like the 'n' in "onion"
 
 * campagne, dignité, signal, cognac
+
+## "th"
+
+"th" is pronounced "t"
+
+| spelled  | pronounced |
+|----------|------------|
+| marathon | maraton    |
+| théâtre  | tay-atre   |
+| Nathalie | Natalie    |
+| Thibault | Teebault   |
+| thé      | tay        |
+
+## "x" at the end of a word
+
+"x" at the end of a word is silent, unless followed by a vowel or silent "h",
+in which case is sounds like a "z".
+
+## "x" followed by a
+
+|               |     |
+|---------------|-----|
+| x + vowel     | gz  |
+| x _ consonant | ks  |
 
